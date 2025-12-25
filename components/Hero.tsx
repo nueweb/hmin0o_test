@@ -18,12 +18,13 @@ const Hero: React.FC = () => {
                 <Target className="w-4 h-4" />
                 <span>STRATEGIC MARKETER & CONTENT CREATOR</span>
               </div>
-              <h1 className="text-6xl lg:text-7xl font-black text-navy leading-[1.1] tracking-tight">
-                <span className="text-orange">"WHY"</span><br/>
-                왜 이거 디자인해야 해?
+              <h1 className="text-5xl lg:text-6xl xl:text-7xl font-black text-navy leading-[1.2] tracking-tighter">
+                <span className="text-orange block mb-2">"WHY"</span>
+                왜 이거 디자인<br />
+                해야 해?
               </h1>
               <p className="text-xl text-gray-500 max-w-lg leading-relaxed font-semibold">
-                라고 먼저 고민하고 디자인하는<br/>
+                디자인 이전에 전략을 설계하는<br/>
                 <span className="text-navy">마케터 한현민</span>입니다.
               </p>
             </div>
